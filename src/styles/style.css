@@ -1,0 +1,238 @@
+.my-form{
+    width: 40%;
+    background-color: #fff;
+    border-radius: 10px;
+    border-top: 10px solid #0D6EFD;
+    z-index: 1;
+}
+.navbar-toggler{
+    width: 55px !important;
+    text-align: right;
+}
+
+@media screen and (max-width:625px) {
+    .my-form{
+        width: 60%;
+    }
+}
+
+.my-form h2{
+    text-align: center;
+    margin: 10px 0 20px;
+}
+.my-form p{
+    text-align: center;
+}
+.my-block{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: rgb(170, 170, 169) url(../assets/collection.jpg) no-repeat left top;
+    background-size: cover;
+    min-height: 100vh;
+}
+.shape{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    opacity: 0.5;
+    z-index: 0;
+}
+
+.title{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.my-cards{
+    display: flex !important;
+    /* justify-content: space-between !important; */
+    flex-direction: row !important;
+    flex-wrap: wrap;
+}
+
+.my-card{
+    max-width: 24%;
+    margin-bottom: 10px;
+    margin: 10px 0.5%;
+    position: relative;
+    z-index: 0;
+}
+.card-body{
+}
+.card-footer{
+    width: 100% !important;
+}
+.card{
+    padding: 0;
+}
+.my-teg{
+    margin-right: 10px;
+    text-decoration: none;
+    font-style: italic;
+}
+
+@media screen and (max-width:767px) {
+    .my-cards{
+        display: flex;
+        flex-direction: column;
+    }
+    .my-card{
+        max-width: 48% !important;
+    }
+    .header-actions{
+        margin-top: 10px;
+        
+    }
+}
+@media screen and (min-width:767px) and (max-width:991px) {
+    .my-card{
+        max-width: 32% !important;
+    }
+}
+.header-actions{
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width:575px) {
+    .my-cards{
+        display: flex;
+        flex-direction: column;
+        justify-content: center !important;
+    }
+    .my-card{
+        max-width: 92% !important;
+    }
+    .card-img-top{
+        height: 50% !important;
+    }
+}
+
+i:hover{
+    cursor: pointer;
+}
+.fa-heart{
+    font-size: 20px;
+    color: rgb(75, 74, 74);
+    transition: transform 0.3s;
+}
+.fa-heart:hover{
+    /* font-size: 22px; */
+    transform: scale(1.2);
+}
+
+.fa-heart:active{
+    color: red;
+}
+.me{
+    color: black;
+}
+.me:hover{
+    color: black;
+}
+
+.my-action{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.actions{
+    /* border: 1px solid black; */
+    width: 80%;
+    text-align: right;
+}
+.actions i{
+    margin-left: 7px;
+    font-size: 18px;
+}
+.card-img-top{
+    height: 40%;
+}
+
+.my-headers{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.my-headers p{
+    width: 100%;
+}
+.head1{
+    width: 60%;
+}
+.head1 img{
+    width: 98%;
+    border: 4px solid rgb(75, 77, 75);
+    transition: 0.4s all;
+    border-radius: 15px;
+}
+.head1 img:hover{
+    padding: 5px;
+}
+.head2{
+    width: 40%;
+}
+
+@media screen and (max-width:650px) {
+    .my-headers{
+        display: flex;
+        flex-direction: column;
+    }
+    .head1{
+        width: 1000%;
+        text-align: center;
+    }
+    .head2{
+        width: 100%;
+    }
+}
+a{
+    text-decoration: none;
+}
+.col-actions{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.col-actions input,textarea,label,button{
+    width: 90%;
+    display: block;
+}
+
+.search-result{
+    box-shadow: -3px 3px 10px #000;
+    background-color: #fff;
+    position: absolute;
+    /* height: 140px; */
+    width: 250px;
+    z-index: 1;
+    margin-top: 5px;
+    border-radius: 5px;
+    overflow-y: auto;
+}
+.action-form{
+    width: 60%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
+.action-form input,textarea,select,button{
+    width: 100% !important;
+}
+.action-form form{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.in-actions a, button{
+    width: 100%;
+}

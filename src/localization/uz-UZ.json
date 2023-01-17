@@ -1,0 +1,100 @@
+{
+    "header.menu.link1": "Kollektsiyalar",
+    "header.menu.link2": "Elementlar",
+    "header.menu.link3": "Biz haqimizda",
+
+    "admin.col.head1": "Id",
+    "admin.col.head2": "Ism",
+    "admin.col.head3": "Email",
+    "admin.col.head4": "Holat",
+    "admin.col.head5": "Hodisa",
+    "admin.col.head6": "Rol",
+
+    "admin.user.status1": "Aktiv",
+    "admin.user.status2": "Blok",
+    "admin.user.action1.1": "Blok",
+    "admin.user.action1.2": "Aktiv",
+    "admin.user.action1.3": "O'chirish",
+
+    "admin.admin.status1": "Admin",
+    "admin.admin.status2": "User",
+    "admin.admin.action1.1": "User",
+    "admin.admin.action1.2": "Admin",
+
+    "collection.head.title": "Siz bu Kollektsiyani boshqarishingiz mumkin",
+    "collection.action.back": "Orqaga",
+    "collection.action.edit": "O'zgartirish",
+    "collection.action.delete": "O'chirish",
+    "collection.action.create": "Element yaratish",
+    "collection.body.title": "Sarlavha:",
+    "collection.body.desc": "Tavsif:",
+    "collection.body.topic": "Mavzu:",
+    "collection.body.teg": "Teg:",
+    "collection.items.title": "Elementlar",
+
+    "collections.head.title": "Barcha kollektsiyalar",
+
+    "create.col.head.title": "Kollektsiya yarating",
+    "create.col.form.title": "Sarlavha",
+    "create.col.form.desc": "Tavsif",
+    "create.col.form.topic": "Mavzu",
+    "create.col.form.tegs": "Teglar",
+    "create.col.form.submit": "Yaratish",
+    
+    "edit.col.head.title": "Kollektsiyani O'zgartiring",
+    "edit.col.form.title": "Sarlavha",
+    "edit.col.form.desc": "Tavsif",
+    "edit.col.form.topic": "Mavzu",
+    "edit.col.form.tegs": "Teglar",
+    "edit.col.form.submit": "Yangilash",
+
+    "create.item.head.title": "Element yarating",
+    "create.item.form.title": "Sarlavha",
+    "create.item.form.desc": "Tavsif",
+    "create.item.form.tegs": "Teglar",
+    "create.item.form.submit": "Yaratish",
+
+    "edit.item.head.title": "Elementni yangilang",
+    "edit.item.form.title": "Sarlavha",
+    "edit.item.form.desc": "Tavsif",
+    "edit.item.form.tegs": "Teglar",
+    "edit.item.form.submit": "Yaratish",
+
+    "item.head.title": "Elementni boshqarish",
+    "item.action.back": "Orqaga",
+    "item.action.edit": "O'zgartirish",
+    "item.action.delete": "O'chirish",
+    "item.body.title": "Sarlavha",
+    "item.body.desc": "Tavsif",
+    "item.body.teg": "Teg",
+
+    "items.head.title": " Barcha elementlar",
+
+    "login.head.sign": "Ro'yxatdan o'tish",
+    "login.form.email": "Email",
+    "login.form.password": "Parol",
+    "login.footer.not": "Yangimisiz?",
+    "login.footer.reg": "Registratsiya",
+    "login.go.home": "Borish:",
+    "login.go.home.link": "Bosh sahifa",
+
+    "reg.head.sign": "Ro'yhatdan o'tish",
+    "reg.form.name": "Ism",
+    "reg.form.email": "Email",
+    "reg.form.password": "Parol",
+    "reg.footer.yes": "Akkountingiz bormi?",
+    "reg.footer.log": "Login",
+    "reg.go.home": "Borish:",
+    "reg.go.home.link": "Bosh sahifa",
+
+    "main.title.1": "Eng katta 5ta kolleksiya",
+    "main.title.2": "Yangi elementlar",
+
+    "me.greeting.1": "Salom",
+    "me.greeting.2": "Sizning emailingiz:",
+    "me.action.out": "Chiqish",
+    "me.action.admin": "Admin panel",
+    "me.action.create": "kolleksiya yaratish",
+    "me.body.title": "Sizning kolleksiyalaringiz"
+
+}

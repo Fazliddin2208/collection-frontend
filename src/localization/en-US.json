@@ -1,0 +1,102 @@
+{
+    "header.menu.link1": "Collections",
+    "header.menu.link2": "Items",
+    "header.menu.link3": "About Us",
+
+    "admin.col.head1": "Id",
+    "admin.col.head2": "Name",
+    "admin.col.head3": "Email",
+    "admin.col.head4": "Status",
+    "admin.col.head5": "Actions",
+    "admin.col.head6": "Role",
+
+    "admin.user.status1": "Active",
+    "admin.user.status2": "Block",
+    "admin.user.action1.1": "Block",
+    "admin.user.action1.2": "Active",
+    "admin.user.action1.3": "Delete",
+
+    "admin.admin.status1": "Admin",
+    "admin.admin.status2": "User",
+    "admin.admin.action1.1": "User",
+    "admin.admin.action1.2": "Admin",
+
+    "collection.head.title": "You can control this collection",
+    "collection.action.back": "Back",
+    "collection.action.edit": "Edit",
+    "collection.action.delete": "Delete",
+    "collection.action.create": "Create Item",
+    "collection.body.title": "Title:",
+    "collection.body.desc": "Description:",
+    "collection.body.topic": "Topic:",
+    "collection.body.teg": "Teg:",
+    "collection.items.title": "Items",
+    
+    "collections.head.title": "All Collections",
+
+    "create.col.head.title": "Create Collection",
+    "create.col.form.title": "Title",
+    "create.col.form.desc": "Description",
+    "create.col.form.topic": "Topic",
+    "create.col.form.tegs": "Tegs",
+    "create.col.form.submit": "Create",
+
+    "edit.col.head.title": "Edit collection",
+    "edit.col.form.title": "Title",
+    "edit.col.form.desc": "Description",
+    "edit.col.form.topic": "Topic",
+    "edit.col.form.tegs": "Tegs",
+    "edit.col.form.submit": "Update",
+
+    "create.item.head.title": "Create Item",
+    "create.item.form.title": "Title",
+    "create.item.form.desc": "Description",
+    "create.item.form.tegs": "Tegs",
+    "create.item.form.submit": "Create",
+
+    "edit.item.head.title": "Edit Item",
+    "edit.item.form.title": "Title",
+    "edit.item.form.desc": "Description",
+    "edit.item.form.tegs": "Tegs",
+    "edit.item.form.submit": "Create",
+
+    "item.head.title": "Control item",
+    "item.action.back": "Back",
+    "item.action.edit": "Edit",
+    "item.action.delete": "Delete",
+    "item.body.title": "Title",
+    "item.body.desc": "Description",
+    "item.body.teg": "Teg",
+
+    "items.head.title": " All items",
+
+    "login.head.sign": "Sign In",
+    "login.form.email": "Email",
+    "login.form.password": "Password",
+    "login.footer.not": "Not registered yet?",
+    "login.footer.reg": "Register",
+    "login.go.home": "Go to",
+    "login.go.home.link": "Home page",
+
+    "reg.head.sign": "Sign Up",
+    "reg.form.name": "Name",
+    "reg.form.email": "Email",
+    "reg.form.password": "Password",
+    "reg.footer.yes": "Already have an account?",
+    "reg.footer.log": "Login",
+    "reg.go.home": "Go to",
+    "reg.go.home.link": "Home page",
+
+    "main.title.1": "5 largest collections",
+    "main.title.2": "Latest items",
+
+    "me.greeting.1": "Hello",
+    "me.greeting.2": "Your email:",
+    "me.action.out": "Log out",
+    "me.action.admin": "Admin page",
+    "me.action.create": "Create Collection",
+    "me.body.title": "Your Collections"
+
+    
+
+}
